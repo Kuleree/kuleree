@@ -3,4 +3,4 @@
 - 📫 How to reach me: contact@kulere.club
 - 😄 Pronouns: They/Them
 
-👀 Future Software Developer
+👀 Future Plugin Developer
