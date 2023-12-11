@@ -1,1 +1,1 @@
-Owner @PvPClubNetwork
+Owner @MineJungle
