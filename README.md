@@ -1,1 +1,1 @@
-Owner @MineJungle
+Currently running SMPTracker - https://smptracker.net
