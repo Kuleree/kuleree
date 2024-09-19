@@ -1,7 +1,7 @@
 
 
 # My Skills: 
-![My Skills](https://skillicons.dev/icons?i=photoshop,html,cloudflare,docker,grafana,nginx,vscode)
+![My Skills](https://skillicons.dev/icons?i=photoshop,html,cloudflare,docker,grafana,nginx,vscode,wordpress)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/176274676610367488)](https://discord.com/users/176274676610367488)
 
